@@ -1,0 +1,61 @@
+# 4. scoring.py
+
+def check_answer(user_answer, correct_answer):
+    return user_answer == correct_answer
+
+def calculate_score(score, total_questions):
+    return f"Your final score is {score}/{total_questions}."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
